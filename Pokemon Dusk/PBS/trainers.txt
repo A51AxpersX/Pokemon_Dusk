@@ -134,8 +134,8 @@ Pokemon = BULBASAUR,5
 #-------------------------------
 [TRAVELER,Todd]
 LoseText = Is this what losing feels like?
-Pokemon = GEODUDE,8
-Pokemon = MACHOP,7
+Pokemon = GEODUDE,6
+Pokemon = MACHOP,5
 #-------------------------------
 [RIVAL1,Cynthia,4]
 LoseText = ...
@@ -157,12 +157,12 @@ Pokemon = RIOLU,8
 #-------------------------------
 [BUGCATCHER,Liam]
 LoseText = Not My bugs!
-Pokemon = KAKUNA,13
-Pokemon = COMBEE,12
+Pokemon = KAKUNA,11
+Pokemon = COMBEE,9
 #-------------------------------
 [BLACKBELT,Maverick]
 LoseText = Maybe on a good day!
-Pokemon = MANKEY,13
+Pokemon = MANKEY,11
 Pokemon = DODUO,9
 Pokemon = FARFETCHD,11
 #-------------------------------
@@ -170,8 +170,8 @@ Pokemon = FARFETCHD,11
 LoseText = I see...
 Pokemon = PIKACHU,15
 Pokemon = VOLTORB,17
-Pokemon = RAICHU,23
-Pokemon = LUXRAY,28
+Pokemon = RAICHU,19
+Pokemon = LUXRAY,21
 #-------------------------------
 [ENGINEER,Jim]
 LoseText = Just you wait Surge is waiting!
@@ -191,8 +191,8 @@ Pokemon = JOLTIK,18
 #-------------------------------
 [BEAUTY,Summer]
 LoseText = No I'm to pretty to lose..
-Pokemon = IVYSAUR,21
-Pokemon = DRIFBLIM,23
+Pokemon = IVYSAUR,18
+Pokemon = DRIFBLIM,19
 #-------------------------------
 [LASS,Judy]
 LoseText = That was crazy!
@@ -202,7 +202,7 @@ Pokemon = AMBIPOM,20
 #-------------------------------
 [SCIENTIST,Benjamin]
 LoseText = Great now im broke...
-Pokemon = DITTO,25
+Pokemon = DITTO,18
 Pokemon = JOLTEON,15
 #-------------------------------
 [COP,Jake]
