@@ -414,3 +414,8 @@ BaseMoney = 30
 Name = COP
 Gender = Male
 BaseMoney = 30
+#-------------------------------
+[RIVAL1_1]
+Name = RIVAL
+Gender = Female
+BaseMoney = 30

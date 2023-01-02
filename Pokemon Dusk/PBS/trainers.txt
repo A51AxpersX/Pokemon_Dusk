@@ -208,3 +208,7 @@ Pokemon = JOLTEON,15
 [COP,Jake]
 LoseText = ...
 Pokemon = BULBASAUR,10
+#-------------------------------
+[RIVAL1_1,Cynthia]
+LoseText = ...
+Pokemon = LUCARIO,18
