@@ -444,4 +444,3 @@ Weather = Rain,100
 Name = Lake Casmore
 Outdoor = true
 ShowArea = true
-Weather = Storm,100
