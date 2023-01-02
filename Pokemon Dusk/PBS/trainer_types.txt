@@ -419,3 +419,8 @@ BaseMoney = 30
 Name = RIVAL
 Gender = Female
 BaseMoney = 30
+#-------------------------------
+[ROCKETDUO]
+Name = Rocket Duo
+Gender = Unknown
+BaseMoney = 30
